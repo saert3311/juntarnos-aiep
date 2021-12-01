@@ -12,3 +12,10 @@
  *
  */
  @import 'bootstrap/scss/bootstrap';
+
+ //Variables
+ @import 'base/variables.scss';
+
+ //Parciales y main
+
+ @import 'partials/layout/*'
